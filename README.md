@@ -33,7 +33,7 @@ Michael B. Wolfe: mbwolfe@umich.edu.
 Special thanks to Shweta Ramdas, for providing [the tool to calculate auto-correlation](https://github.com/shwetaramdas/autocorrelation).  
 ## Contacts
 
-For questions regarding this repository, please contact Rucheng Diao (diaorch@umich.edu). For questions regarding the publication, please see the author listed ans contact the corresponding author(s).  
+For questions regarding this repository, please contact Rucheng Diao (diaorch@umich.edu). For questions regarding the publication, please see the author listed and contact the corresponding author(s).  
 
 ## License  
 
